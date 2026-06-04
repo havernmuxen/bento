@@ -8,3 +8,4 @@ stepfhen:guys =
 @FYTV><:)( (:gern):nmine
     (::gmine,, @gbmine:kli
 :@index, @bnmimy::@
+#index @werd(index
