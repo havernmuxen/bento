@@ -6,3 +6,4 @@ stepfhen:guys =
 :giten:guyto:ubrn:><:index:
 :code:(index,:max:
 @FYTV><:)( (:gern):nmine
+    (::gmine,, @gbmine:kli
