@@ -1,7 +1,7 @@
 :hello world 
 good🀄:goodmorning joining⚓
 forward:howard
-gerk :horward
+<@gerk :horward
 stepfhen:guys =
 :giten:guyto:ubrn:><:index:
 :code
