@@ -7,3 +7,4 @@ stepfhen:guys =
 :code:(index,:max:
 @FYTV><:)( (:gern):nmine
     (::gmine,, @gbmine:kli
+:@index, bnmimy::@
