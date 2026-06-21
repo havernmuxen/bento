@@ -8,3 +8,4 @@ stepfhen:guys =
 @def @:request-seen(self, request):index
 (gern# ,<index )) 
 (genex:howard:)):gerne
+*.information
