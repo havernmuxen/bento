@@ -1,1 +1,3 @@
-:ghh
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
