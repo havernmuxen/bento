@@ -9,3 +9,6 @@ stepfhen:guys =
 (gern# ,<index )) 
 (genex:howard:)):gerne
 *.information
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus }
